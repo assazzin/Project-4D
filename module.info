@@ -1,0 +1,6 @@
+{
+    "title": "CredentialSearch",
+    "description": "For searching credentials in HTTP base on ngrep",
+    "version": "1.0",
+    "author": "AssazziN"
+}
